@@ -1,0 +1,13 @@
+  body{
+    background-color:lightgrey;
+  }
+#button{
+    color:white;
+    width: 200px;
+    height: 50px;
+    background-color: red;
+    border:solid 5px blue;
+    font-size:20px;
+    font-weight: bold;
+}
+  
